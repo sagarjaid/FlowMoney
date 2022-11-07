@@ -143,7 +143,7 @@ const Home = () => {
   return (
     <div className="flex justify-between max-w-7xl pt-2 px-3 mx-auto">
       <Head>
-        <title>Create Next App</title>
+        <title>FlowMoney App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="w-[30%] my-4 p-2">
@@ -175,14 +175,14 @@ const Home = () => {
 
       <div div className="w-full">
         <div className="border my-4 p-2 border-stone-300 rounded-lg flex justify-between">
-          <div className="m-1 p-1 bg-rose-200 rounded-md grow">
+          <div className="m-1 p-2.5 bg-rose-200 rounded-md grow">
             <h2 className="text-base">income</h2>
             <div>
               <span>₹</span>
               <span className="text-2xl">116000</span>
             </div>
           </div>
-          <div className="m-1 p-1 bg-green-200 rounded-md grow">
+          <div className="m-1 p-2.5 bg-green-200 rounded-md grow">
             <h2 className="text-base">expenses</h2>
             <span>₹</span>
             <span className="text-2xl">116000</span>

@@ -9,7 +9,7 @@ const Investments = () => {
   return (
     <div className="flex justify-between max-w-7xl pt-2 px-3 mx-auto">
       <Head>
-        <title>Create Next App</title>
+        <title>Investments | FlowMoney App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="w-[30%] my-4 p-2">
